@@ -1,1 +1,1 @@
-$${\color{pink}Christ} \space {\color{white}is} \space {\color{pink}King} \space👑$$
+$${\color{pink}Christ} \space {\color{white}is} \space {\color{pink}King} \space \space👑$$
