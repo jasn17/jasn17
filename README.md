@@ -1,11 +1,12 @@
 <h1 align="center">YELLO 👋 Welcome to my profile!</h1>
-- 👨‍💻 All of my projects are available at [officialjasonlin.com](officialjasonlin.com)
 
-- 💬 Ask me about **Quantum computing, AI, Music**
+👨‍💻 All of my projects are available at [officialjasonlin.com](officialjasonlin.com)
 
-- 📫 How to reach me **jlin22@clemson.edu**
+💬 Ask me about **Quantum computing, AI, Music**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jasnlin](www.linkedin.com/in/jasnlin)
+📫 How to reach me **jlin22@clemson.edu**
+
+📄 Know about my experiences [www.linkedin.com/in/jasnlin](www.linkedin.com/in/jasnlin)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
