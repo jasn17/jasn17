@@ -34,9 +34,6 @@ All of my work is available at
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasn17&show_icons=true&locale=en" alt="jasn17 GitHub Stats" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasn17" alt="jasn17 GitHub Streak" />
-</p>
 
 ---
 
