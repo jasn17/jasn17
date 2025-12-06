@@ -17,14 +17,8 @@ All of my work is available at
 
 ### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://twitter.com/jasovian" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40"/>
-  </a>
   <a href="https://linkedin.com/in/jasnlin" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/jasovian" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
   </a>
 </p>
 
