@@ -1,21 +1,12 @@
-<h1 align="center">👋 YELLO — Welcome to my profile!</h1>
+<h1 align="center">My Profile</h1>
 
-### 👨‍💻 Projects  
-All of my work is available at  
-👉 <a href="https://officialjasonlin.com" target="_blank" rel="noopener noreferrer">officialjasonlin.com</a>
-
----
-
-### 💬 Ask Me About  
-**Quantum computing, AI, Music**
-
-### 📫 Reach Me At  
-🐅 **jlin22@clemson.edu**  
-🔗 <a href="https://www.linkedin.com/in/jasnlin" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/jasnlin</a>
+### Reach Me At  
+**jlin22@clemson.edu**  
+<a href="https://www.linkedin.com/in/jasnlin" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/jasnlin</a>
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/jasnlin" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
@@ -24,14 +15,14 @@ All of my work is available at
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasn17&show_icons=true&locale=en" alt="jasn17 GitHub Stats" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools  
+### Languages and Tools  
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
